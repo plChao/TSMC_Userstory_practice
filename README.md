@@ -7,3 +7,7 @@
     * 學生可以找到便宜的車
         1. 實現方式A: 在搜尋車輛時，提供價錢篩選。
         2. 實現方式B: 定期提供學生促銷活動。
+
+## 310552028 廖盈瑄
+1. User stories
+2. Writing acceptance criteria
